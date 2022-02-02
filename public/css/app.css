@@ -10903,3 +10903,15 @@ a.text-dark:focus {
   }
 }
 
+.imgHeight {
+  height: 70%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.marginleftright {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
